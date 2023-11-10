@@ -14,10 +14,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/quic-go"
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/internal/utils"
-	"github.com/metacubex/quic-go/quicvarint"
+	"github.com/MerlinKodo/quic-go"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/utils"
+	"github.com/MerlinKodo/quic-go/quicvarint"
 
 	"github.com/quic-go/qpack"
 )

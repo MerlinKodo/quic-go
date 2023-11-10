@@ -3,7 +3,7 @@ package congestion
 import (
 	"time"
 
-	"github.com/metacubex/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
 )
 
 // A SendAlgorithm performs congestion control

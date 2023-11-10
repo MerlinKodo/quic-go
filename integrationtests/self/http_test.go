@@ -16,8 +16,8 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"github.com/metacubex/quic-go"
-	"github.com/metacubex/quic-go/http3"
+	"github.com/MerlinKodo/quic-go"
+	"github.com/MerlinKodo/quic-go/http3"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

@@ -3,8 +3,8 @@ package wire
 import (
 	"bytes"
 
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/quicvarint"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/quicvarint"
 )
 
 // A RetireConnectionIDFrame is a RETIRE_CONNECTION_ID frame

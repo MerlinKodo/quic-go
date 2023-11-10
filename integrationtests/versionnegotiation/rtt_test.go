@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/metacubex/quic-go"
-	quicproxy "github.com/metacubex/quic-go/integrationtests/tools/proxy"
-	"github.com/metacubex/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go"
+	quicproxy "github.com/MerlinKodo/quic-go/integrationtests/tools/proxy"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

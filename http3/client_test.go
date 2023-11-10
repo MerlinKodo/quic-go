@@ -12,11 +12,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/quic-go"
-	mockquic "github.com/metacubex/quic-go/internal/mocks/quic"
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/internal/utils"
-	"github.com/metacubex/quic-go/quicvarint"
+	"github.com/MerlinKodo/quic-go"
+	mockquic "github.com/MerlinKodo/quic-go/internal/mocks/quic"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/utils"
+	"github.com/MerlinKodo/quic-go/quicvarint"
 
 	"github.com/quic-go/qpack"
 

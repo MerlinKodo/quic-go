@@ -3,9 +3,9 @@ package quic
 import (
 	"sync"
 
-	"github.com/metacubex/quic-go/internal/flowcontrol"
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/internal/wire"
+	"github.com/MerlinKodo/quic-go/internal/flowcontrol"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/wire"
 )
 
 type windowUpdateQueue struct {

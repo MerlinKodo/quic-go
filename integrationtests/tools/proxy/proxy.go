@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/internal/utils"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/utils"
 )
 
 // Connection is a UDP connection

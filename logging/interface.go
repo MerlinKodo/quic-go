@@ -3,10 +3,10 @@
 package logging
 
 import (
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/internal/qerr"
-	"github.com/metacubex/quic-go/internal/utils"
-	"github.com/metacubex/quic-go/internal/wire"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/qerr"
+	"github.com/MerlinKodo/quic-go/internal/utils"
+	"github.com/MerlinKodo/quic-go/internal/wire"
 )
 
 type (

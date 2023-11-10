@@ -7,11 +7,11 @@ import (
 	"testing"
 	"time"
 
-	mocklogging "github.com/metacubex/quic-go/internal/mocks/logging"
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/internal/qerr"
-	"github.com/metacubex/quic-go/internal/utils"
-	"github.com/metacubex/quic-go/logging"
+	mocklogging "github.com/MerlinKodo/quic-go/internal/mocks/logging"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/qerr"
+	"github.com/MerlinKodo/quic-go/internal/utils"
+	"github.com/MerlinKodo/quic-go/logging"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

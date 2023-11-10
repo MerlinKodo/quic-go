@@ -16,12 +16,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/metacubex/quic-go"
-	"github.com/metacubex/quic-go/integrationtests/tools"
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/internal/utils"
-	"github.com/metacubex/quic-go/internal/wire"
-	"github.com/metacubex/quic-go/logging"
+	"github.com/MerlinKodo/quic-go"
+	"github.com/MerlinKodo/quic-go/integrationtests/tools"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/utils"
+	"github.com/MerlinKodo/quic-go/internal/wire"
+	"github.com/MerlinKodo/quic-go/logging"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

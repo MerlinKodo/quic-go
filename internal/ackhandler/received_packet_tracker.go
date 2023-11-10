@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/internal/utils"
-	"github.com/metacubex/quic-go/internal/wire"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/utils"
+	"github.com/MerlinKodo/quic-go/internal/wire"
 )
 
 // number of ack-eliciting packets received before sending an ack.

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/metacubex/quic-go"
+	"github.com/MerlinKodo/quic-go"
 )
 
 const h09alpn = "hq-interop"
