@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/metacubex/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

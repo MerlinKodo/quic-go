@@ -3,7 +3,7 @@ package quic
 import (
 	"errors"
 
-	"github.com/metacubex/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
 )
 
 type sender interface {

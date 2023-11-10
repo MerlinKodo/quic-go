@@ -18,12 +18,12 @@ import (
 
 	_ "net/http/pprof"
 
-	"github.com/metacubex/quic-go"
-	"github.com/metacubex/quic-go/http3"
-	"github.com/metacubex/quic-go/internal/testdata"
-	"github.com/metacubex/quic-go/internal/utils"
-	"github.com/metacubex/quic-go/logging"
-	"github.com/metacubex/quic-go/qlog"
+	"github.com/MerlinKodo/quic-go"
+	"github.com/MerlinKodo/quic-go/http3"
+	"github.com/MerlinKodo/quic-go/internal/testdata"
+	"github.com/MerlinKodo/quic-go/internal/utils"
+	"github.com/MerlinKodo/quic-go/logging"
+	"github.com/MerlinKodo/quic-go/qlog"
 )
 
 type binds []string

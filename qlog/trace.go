@@ -3,8 +3,8 @@ package qlog
 import (
 	"time"
 
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/logging"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/logging"
 
 	"github.com/francoispqt/gojay"
 )

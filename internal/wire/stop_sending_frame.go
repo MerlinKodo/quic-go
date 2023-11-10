@@ -3,9 +3,9 @@ package wire
 import (
 	"bytes"
 
-	"github.com/metacubex/quic-go/internal/protocol"
-	"github.com/metacubex/quic-go/internal/qerr"
-	"github.com/metacubex/quic-go/quicvarint"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/qerr"
+	"github.com/MerlinKodo/quic-go/quicvarint"
 )
 
 // A StopSendingFrame is a STOP_SENDING frame

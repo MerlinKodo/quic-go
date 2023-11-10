@@ -3,9 +3,9 @@ package ackhandler
 import (
 	"sync"
 
-	"github.com/metacubex/quic-go/internal/protocol"
-	list "github.com/metacubex/quic-go/internal/utils/linkedlist"
-	"github.com/metacubex/quic-go/internal/wire"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
+	list "github.com/MerlinKodo/quic-go/internal/utils/linkedlist"
+	"github.com/MerlinKodo/quic-go/internal/wire"
 )
 
 // interval is an interval from one PacketNumber to the other

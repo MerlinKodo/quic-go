@@ -3,7 +3,7 @@ package quic
 import (
 	"sync"
 
-	"github.com/metacubex/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
 )
 
 type packetBuffer struct {

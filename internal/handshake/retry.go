@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/metacubex/quic-go/internal/protocol"
+	"github.com/MerlinKodo/quic-go/internal/protocol"
 )
 
 var (

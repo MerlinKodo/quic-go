@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/metacubex/quic-go"
-	"github.com/metacubex/quic-go/internal/utils"
+	"github.com/MerlinKodo/quic-go"
+	"github.com/MerlinKodo/quic-go/internal/utils"
 )
 
 // A Stream is a HTTP/3 stream.
